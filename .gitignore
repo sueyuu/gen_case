@@ -1,0 +1,7 @@
+case
+casefolder
+old_gen_case
+.ipynb_checkpoints
+__pycache__
+*.txt
+*.csv
